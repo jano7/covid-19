@@ -31,7 +31,7 @@ def hospital_death_sample(hospital_death_rate):
 
 def hospitalization_period_sample(hospitalization_period):
     if hospitalization_period <= 1:
-        raise Exception("latent_period has to be > 1")
+        raise Exception("hospitalization_period has to be > 1")
     return 1 + np.random.binomial((hospitalization_period - 1) * 100, .01)
 
 
