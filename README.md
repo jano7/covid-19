@@ -11,7 +11,7 @@
 - number of hospital beds: **115k**
 
 ![R0=2.5](covid-19_r0-2.5.png)
-- 90% population infected
+- 90% of population got infected during pandemic
 
 ![R0=1.25](covid-19_r0-1.25.png)
-- 37% population infected
+- 37% of population got infected during pandemic
