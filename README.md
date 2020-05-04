@@ -1,5 +1,7 @@
 # COVID-19 Simulation
 
+**This is just a simulation attempt. Please take it with a pinch of salt.**
+
 ### Parameters
 - population size: **UK** (66m)
 - R0 (reproduction number): **2.5** (no social distancing) and **1.25** (with social distancing)
