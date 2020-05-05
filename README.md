@@ -15,5 +15,7 @@
 ![R0=2.5](covid-19_r0-2.5.png)
 - 90% of population got infected during the simulation
 
+
+
 ![R0=1.25](covid-19_r0-1.25.png)
 - 37% of population got infected during the simulation
