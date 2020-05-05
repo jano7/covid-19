@@ -1,6 +1,6 @@
 # COVID-19 Simulation
 
-**This is just a simulation attempt. Please take it with a pinch of salt.**
+**This is just a simulation attempt with many assumptions. Please take it with a pinch of salt.**
 
 ### Parameters
 - population size: **UK** (66m)
@@ -13,9 +13,10 @@
 - number of hospital beds: **115k**
 
 ![R0=2.5](covid-19_r0-2.5.png)
-- 90% of population got infected during the simulation
-
-
+- 90% of the population got infected during the simulation
+<br/>
+<br/>
+<br/>
 
 ![R0=1.25](covid-19_r0-1.25.png)
-- 37% of population got infected during the simulation
+- 37% of the population got infected during the simulation
