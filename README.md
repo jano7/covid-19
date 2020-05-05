@@ -14,6 +14,7 @@
 
 ![R0=2.5](covid-19_r0-2.5.png)
 - 90% of the population got infected during the simulation
+- Avoidable Deaths - deaths caused by a lack of hospital beds
 <br/>
 <br/>
 <br/>
