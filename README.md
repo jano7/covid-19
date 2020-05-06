@@ -1,6 +1,6 @@
 # COVID-19 Simulation
 
-**This is just a simulation attempt with many assumptions. Please take it with a pinch of salt.**
+**This is just a simulation attempt with many assumptions and simplifications. Please take it with a pinch of salt.**
 
 ### Parameters
 - population size: **UK** (66m)
